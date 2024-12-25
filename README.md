@@ -3,9 +3,8 @@
 This repository contains the code, models, and visualizations for a **Computational Fluid Dynamics (CFD)** project that investigates fluid flow and heat transfer in curve-shaped cavities with a wavy cylinder inside. The project evaluates the influence of internal heat absorption, buoyancy-driven convection, and various dimensionless parameters on the fluid dynamics and heat distribution within the cavity.
 
 ## Project Overview
-<div style="text-align:center">
-  <img src="https://mmm.sh/github/CFD/geometry.jpg" width="50%" style="display:block;margin:0px auto">  
-</div>
+
+<img src="https://mmm.sh/github/CFD/geometry.jpg" width="57%" />  
 
 The goal of this study is to:
 1. Solve fluid flow problems in curve-shaped cavities containing a wavy cylinder.
