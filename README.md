@@ -4,7 +4,7 @@ This repository contains the code, models, and visualizations for a **Computatio
 
 ## Project Overview
 
-![Model Geometry](figures/geometry.jpg)
+<img src="https://mmm.sh/github/CFD/grometry.jpg" width="50%" />
 
 The goal of this study is to:
 1. Solve fluid flow problems in curve-shaped cavities containing a wavy cylinder.
