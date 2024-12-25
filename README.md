@@ -37,15 +37,15 @@ The goal of this study is to:
 ## Results
 
 <div style="display:flex">
-  <img src="figures/Ra/velocity_01.png" width="25%"/>
-  <img src="figures/Ra/velocity_02.png" width="25%"/>
-  <img src="figures/Ra/velocity_04.png" width="25%"/>
-  <img src="figures/Ra/velocity_05.png" width="25%"/>
+  <img src="figures/Ra/velocity_01.png" width="24%"/>
+  <img src="figures/Ra/velocity_02.png" width="24%"/>
+  <img src="figures/Ra/velocity_04.png" width="24%"/>
+  <img src="figures/Ra/velocity_05.png" width="24%"/>
   
-  <img src="figures/Ra/isotherm_01.png" width="25%"/>
-  <img src="figures/Ra/isotherm_02.png" width="25%"/>
-  <img src="figures/Ra/isotherm_04.png" width="25%"/>
-  <img src="figures/Ra/isotherm_05.png" width="25%"/>
+  <img src="figures/Ra/isotherm_01.png" width="24%"/>
+  <img src="figures/Ra/isotherm_02.png" width="24%"/>
+  <img src="figures/Ra/isotherm_04.png" width="24%"/>
+  <img src="figures/Ra/isotherm_05.png" width="24%"/>
 </div>
 
 - The study highlights significant effects of dimensionless parameters on:
