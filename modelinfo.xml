@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelInfo comsolVersion="6.0.0.318" modelType="MODEL" nodeType="solved" isRunnable="false" pdfResources="" passwordProtection="off" startMode="edit" ignoreLicenseErrors="off" title="" description="" runtimeProtection="off" windowTitle="Mokaddes1 (1)" expectedComputationTime="" lastComputationTime="48.73 s" mainPartSDim="None">
+  <historyInfo createdIn="COMSOL Multiphysics 6.0 (Build: 318)" author="" createdDate="1679539816016" lastModifiedBy="" lastModifiedDate="1687768792318"/>
+  <licenseInfo products="DESIGN"/>
+  <physicsInfo physics="Laminar_flow##Poisson_equation##Heat_transfer_in_fluids"/>
+  <geometryInfo>
+    <geom tag="geom1" dimension="2"/>
+  </geometryInfo>
+  <batchLicInfo batchLic="33AU7ol3zhkOT8RK4AlH3C/129tGoZ0uycNvboGdrAZUvm4LtJ3qDI+7IINceOeO9C4e1mGxtqZtD7w095lr0Y=="/>
+  <appArgumentInfo/>
+</modelInfo>
+
