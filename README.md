@@ -65,13 +65,12 @@ The study highlights significant effects of dimensionless parameters on:
 
 - `models/`: COMSOL model files for different configurations.
 - `scripts/`: MATLAB scripts for data analysis and processing.
-- `visualizations/`: Plots of streamlines, isotherms, and other visual outputs.
+- `figures/`: Plots of streamlines, isotherms, and other visual outputs.
 - `docs/`: Detailed documentation and results analysis.
-- `README.md`: This file.
 
 ## How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cfd-wavy-cylinder.git
-   cd cfd-wavy-cylinder
+   git clone https://github.com/encryptoday/Computational-Fluid-Dynamics.git
+   cd Computational-Fluid-Dynamics
