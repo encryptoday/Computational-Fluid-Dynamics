@@ -4,7 +4,7 @@ This repository contains the code, models, and visualizations for a **Computatio
 
 ## Project Overview
 <div style="text-align:center">
-  <img src="https://mmm.sh/github/CFD/geometry.jpg" width="50%"/>  
+  <img src="https://mmm.sh/github/CFD/geometry.jpg" width="50%" style="display:block;margin:0px auto">  
 </div>
 
 The goal of this study is to:
