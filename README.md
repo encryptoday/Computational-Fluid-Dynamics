@@ -4,6 +4,8 @@ This repository contains the code, models, and visualizations for a **Computatio
 
 ## Project Overview
 
+[Model Geometry](figures/geometry.jpg)
+
 The goal of this study is to:
 1. Solve fluid flow problems in curve-shaped cavities containing a wavy cylinder.
 2. Evaluate the effects of internal heat absorption and buoyancy-driven natural convection.
