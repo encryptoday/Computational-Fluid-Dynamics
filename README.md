@@ -1,4 +1,4 @@
-# Natural Convection in a Cavity with a Wavy Cylinder
+# Numerical simulation of MHD natural convection flow within a nonuniformly heated wavy annulus using hybrid-nanofluid
 
 This repository contains the code, models, and visualizations for a **Computational Fluid Dynamics (CFD)** project that investigates fluid flow and heat transfer in curve-shaped cavities with a wavy cylinder inside. The project evaluates the influence of internal heat absorption, buoyancy-driven convection, and various dimensionless parameters on the fluid dynamics and heat distribution within the cavity.
 
