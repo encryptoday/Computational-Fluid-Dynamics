@@ -36,6 +36,16 @@ The goal of this study is to:
 
 ## Results
 
+<img src="figures/Ra/velocity_01.png" width="25%"/>
+<img src="figures/Ra/velocity_02.png" width="25%"/>
+<img src="figures/Ra/velocity_04.png" width="25%"/>
+<img src="figures/Ra/velocity_05.png" width="25%"/>
+
+<img src="figures/Ra/isotherm_01.png" width="25%"/>
+<img src="figures/Ra/isotherm_02.png" width="25%"/>
+<img src="figures/Ra/isotherm_04.png" width="25%"/>
+<img src="figures/Ra/isotherm_05.png" width="25%"/>
+
 - The study highlights significant effects of dimensionless parameters on:
   - **Flow Field**: Streamline patterns change significantly with variations in parameters.
   - **Heat Transfer**: Temperature distribution and heat transfer rates are influenced by heat generation and absorption.
