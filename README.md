@@ -48,7 +48,7 @@ The goal of this study is to:
   <img src="figures/Ra/isotherm_05.png" width="24%"/>
 </div>
 
-`Velocity distribution and Isotherms for different Rayleigh numbers: (a) Ra = 10<sup>3</sup>, (b) Ra = 5 × 10<sup>3</sup>, (c) Ra = 10<sup>4</sup>, and (d) Ra = 5 × 10<sup>4</sup>.`
+`Velocity distribution and Isotherms for different Rayleigh numbers: (a) Ra = 10E3, (b) Ra = 5 × 10E3, (c) Ra = 10E4, and (d) Ra = 5 × 10E4.`
 
 The study highlights significant effects of dimensionless parameters on:
   - **Flow Field**: Streamline patterns change significantly with variations in parameters.
